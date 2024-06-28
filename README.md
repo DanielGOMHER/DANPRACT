@@ -93,5 +93,5 @@ Mi tipo favorito de musica es:
   |Fila 4 celda 1|Fila 4 celda 2|Fila 4 celda 3|Fila 4 celda 4|
 ## 9. Imagenes
 para la visualizacion de imagebes debemos cargar los archivos en nuestro repositorios y vincularlos
-|[lugia] ("C:\Users\jurge\Downloads\IMAGENM\wp9284905.webp").
+|[lugia] (https://github.com/DanielGOMHER/DANPRACT/tree/main/IMAGPNG).
           
